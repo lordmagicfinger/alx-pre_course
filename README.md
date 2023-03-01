@@ -1,1 +1,1 @@
-My first readme
+Currently an undergraduate software Engineer
